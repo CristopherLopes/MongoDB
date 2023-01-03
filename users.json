@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "63b37f0586608c1a13d62311"
+  },
+  "name": "Lopes Cristopher",
+  "height": 1.75,
+  "email": "lopescristopher@gmail.com"
+},{
+  "_id": {
+    "$oid": "63b3802f86608c1a13d62312"
+  },
+  "name": "José José",
+  "password": "123abc",
+  "best_color": "green"
+}]
